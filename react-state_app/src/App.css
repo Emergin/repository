@@ -36,12 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.expenses {
-  box-shadow: 0 1px 8px black;
-  background-color: black;
-  border-radius: 12px;
-  padding: 1rem;
-  margin: 2rem auto;
-  width: 50rem;
-  max-width: 95%;
-}
