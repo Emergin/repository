@@ -1,0 +1,20 @@
+.movie {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: blue;
+  box-shadow: 0 2px 8px black;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+
+.movie h2 {
+  font-size: 2rem;
+  color: yellow;
+}
+
+.movie h3 {
+  color: yellow;
+  margin: 0;
+  font-size: 1rem;
+}
